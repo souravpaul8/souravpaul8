@@ -12,7 +12,7 @@
 </a>
 <br />
 
-#### - 🥀 Building Awesome RESTful Web Services using C# and .Net Core 
+#### - 🥀 Building Awesome RESTful Web Services using C# and .Net Core right now
 <br />
 
 **I am Into,**
