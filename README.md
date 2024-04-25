@@ -1,4 +1,4 @@
-### Hi there, I'm [Sourav!](https://souravpaul.live) 👋.
+### Hi there, I'm [Sourav!]([https://souravpaul.live](https://www.cse.iitb.ac.in/~souravpaul/)) 👋.
 
 <br/>
 <a href="https://www.linkedin.com/in/souravpaul8/">
