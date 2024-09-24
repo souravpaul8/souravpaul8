@@ -12,12 +12,12 @@
 </a>
 <br />
 
-#### - 🥀 Building Awesome RESTful Web Services using C# and .Net Core right now
+#### - Building services that scale effortlessly, adapting to any load or challenge. Crafting resilient architectures that thrive in a cloud-native world!
 <br />
 
 **I am Into,**
 
-**Backend Development, Data Structures & Algorithms, and Mobile Development**
+**Networks, Distributed Systems, Cloud Computing, Backend Development, Data Structures & Algorithms, and Mobile Development**
 <br />
 
 <p align="center" >
