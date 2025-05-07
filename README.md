@@ -1,5 +1,5 @@
 ### Hi there, I'm [Sourav!]([https://souravpaul.live](https://www.cse.iitb.ac.in/~souravpaul/)) 👋.
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=souravpaul8)
 
 
 <br/>
