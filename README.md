@@ -1,11 +1,10 @@
 ### Hi there, I'm [Sourav!]([https://souravpaul.live](https://www.cse.iitb.ac.in/~souravpaul/)) 👋.
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+
 
 <br/>
 <a href="https://www.linkedin.com/in/souravpaul8/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/souravpaul">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/sourav_paul8/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
