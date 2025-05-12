@@ -14,7 +14,7 @@
 #### - Building services that scale effortlessly, adapting to any load or challenge. Crafting resilient architectures that thrive in a cloud-native world!
 <br />
 
-**I am Into,** **Networks, Distributed Systems, Cloud Computing, Backend Development, Data Structures & Algorithms, and Mobile Development**
+**I am into,** **Networks, Distributed Systems, Cloud Computing, Backend Development, Data Structures & Algorithms, and Mobile Development**
 <br />
 
 <p align="center" >
